@@ -32,7 +32,7 @@ border: solid black 2px;
 	height: 300px;
 	display: inline;
 	
-	background-image: url(images/banner1080v2.png);
+	background-image: url(/images/banner1080v2.png);
 
 	background-size: 100%; 
 	background-position: center;
