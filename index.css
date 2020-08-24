@@ -23,7 +23,7 @@ width: 1800px;
 text-align: center;
 display: flex;
 justify-content: center;
-border: solid black 2px;
+/*border: solid black 2px;*/
 
 }
 .row {
